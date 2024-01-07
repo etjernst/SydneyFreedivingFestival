@@ -1,7 +1,7 @@
 # Site settings
 title: Sydney Freediving Festival
 description: "Join us for the Sydney Freediving Festival on February 24-25, 2024."
-baseurl: "/freediving" # the subpath of your site, e.g. /blog
+baseurl: "/sydney-freediving-festival" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
